@@ -1,2 +1,2 @@
 # Smart_city
- An application that provides information of different places(of Islamabad) to the people of different interests.
+ An application that provides information of different places(of Islamabad) to the people of different interests. It consists of different places (restaurants, shopping malls etc.) and related information like contact numbers and ambiance. It contains different features for the admin that helps the admin to update the table according to the current situations in the city and also check the progress of the application. 
